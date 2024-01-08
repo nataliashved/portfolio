@@ -10,4 +10,4 @@ Welcome to my portfolio!
 ![Screenshot of a home screen](figma.jpg)
 
 2. prototype made in Miro and Photoshop
-![Screenshot of a home screen](Прототип диплом.jpg)
+![Screenshot of a home screen](prototype_diploma.jpg)
