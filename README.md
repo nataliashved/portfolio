@@ -40,7 +40,7 @@ Link to a [pdf](https://github.com/nataliashved/portfolio/blob/7d7978b8157ae4e64
 ## DWH
 Online univercity
 
-Core Data Layer, Data Mart Layer, ETL
+Core Data Layer, Data Mart Layer, ETL. Technical specifications and Data Quality in the tabs <a href="https://docs.google.com/spreadsheets/d/17Da7IS6fAjHAVv1_yUw3HUlk2hFT_h_5kpTfDOwxJ-s/edit?usp=sharing">here</a>
 ![Screenshot](dwh.jpg)
 
-Technical specifications and Data Quality <a href="https://docs.google.com/spreadsheets/d/17Da7IS6fAjHAVv1_yUw3HUlk2hFT_h_5kpTfDOwxJ-s/edit?usp=sharing">here</a>
+
