@@ -3,9 +3,9 @@
 Welcome to my portfolio!
 ## 📚 Table of Contents
 - [How to Create Your Profile?](#how-to-create-your-profile)
-- [Prototypes](##Prototypes)
-- [SQL](##SQL)
-- [Travel plan app (diploma)](##Travel)
+- [Prototypes](#Prototypes)
+- [SQL](#SQL)
+- [Travel plan app (diploma)](#Travel-plan-app-(diploma))
 
 
 
