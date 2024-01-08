@@ -5,7 +5,9 @@ Welcome to my portfolio!
 
 - [Prototypes](#Prototypes)
 - [SQL](#SQL)
+- [BI](#BI)
 - [Travel plan app (diploma)](#Travel-plan-app-diploma)
+- [Data Warehouse](#DWH)
 
 
 
@@ -21,6 +23,12 @@ ___
 
 ## SQL
 
+
+___
+
+## BI
+
+
 ___
 
 ## Travel-plan-app-diploma
@@ -28,3 +36,11 @@ ___
 
 Link to a [pdf](https://github.com/nataliashved/portfolio/blob/7d7978b8157ae4e6478324dbeb71b38c5bbcc0b4/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pptx.pdf) diploma on a 14 pages
 ![Screenshot](diploma_title.jpg)
+
+## DWH
+Online univercity
+
+Core Data Layer, Data Mart Layer, ETL
+![Screenshot](dwh.jpg)
+
+Technical specifications and Data Quality <a href="https://docs.google.com/spreadsheets/d/17Da7IS6fAjHAVv1_yUw3HUlk2hFT_h_5kpTfDOwxJ-s/edit?usp=sharing">here</a>
