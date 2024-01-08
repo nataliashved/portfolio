@@ -18,7 +18,7 @@ ___
    
 ![Screenshot of a home screen](figma.jpg)
 
-3. prototype made in Miro and Photoshop
+3. prototype made in <a href="https://miro.com/app/board/o9J_kz8XEt4=/?share_link_id=271714930996">Miro</a> and Photoshop
    
 ![Screenshot](prototype_diploma.jpg)
 ___
