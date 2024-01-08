@@ -24,3 +24,5 @@ ___
 ___
 
 ## Travel-plan-app-diploma
+
+Link to a [pdf](https://github.com/nataliashved/portfolio/blob/7d7978b8157ae4e6478324dbeb71b38c5bbcc0b4/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pptx.pdf)
