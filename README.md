@@ -19,7 +19,8 @@ ___
 ![Screenshot of a home screen](prototype_diploma.jpg)
 ___
 
-##SQL
+## SQL
 
 ___
-##Travel plan app (diploma)
+
+## Travel plan app (diploma)
