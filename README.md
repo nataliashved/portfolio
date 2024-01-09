@@ -3,38 +3,35 @@
 Welcome to my portfolio!
 ## 📚 Table of Contents
 
-- [Prototypes](#Prototypes)
+- [Прототипирование интерфейсов](#Prototypes)
+
+
+- [Дипломный проект](#Travel-plan-app-diploma)
+- [Data Warehouse](#DWH)
 - [SQL](#SQL)
 - [BI](#BI)
-- [Travel plan app (diploma)](#Travel-plan-app-diploma)
-- [Data Warehouse](#DWH)
 
 
 
 ___
 
 ## Prototypes
-1. link to figma <a href="https://www.figma.com/proto/fKyYFi0qrNkGeUYZLYyP6y/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF?node-id=2-3&scaling=scale-down&page-id=1%3A2&starting-point-node-id=2%3A3&mode=design&t=d8PeZjRUUQvIGgCz-1" target="_blank">prototype</a> (working buttons: income, expences and calendar)
+1. По заданию нужно было создать прототип главного экрана приложения по учёту расходов в Figma для iOS. Ссылка на figma <a href="https://www.figma.com/proto/fKyYFi0qrNkGeUYZLYyP6y/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF?node-id=2-3&scaling=scale-down&page-id=1%3A2&starting-point-node-id=2%3A3&mode=design&t=d8PeZjRUUQvIGgCz-1" target="_blank">prototype</a> (working buttons: income, expences and calendar)
    
 ![Screenshot of a home screen](figma.jpg)
 
-3. prototype made in <a href="https://miro.com/app/board/o9J_kz8XEt4=/?share_link_id=271714930996">Miro</a> and Photoshop
+2. Прототип из дипломной работы. Эраны приложения для планирования путешествий, сделаны в <a href="https://miro.com/app/board/o9J_kz8XEt4=/?share_link_id=271714930996">Miro</a> и Photoshop
    
 ![Screenshot](prototype_diploma.jpg)
 ___
 
-## SQL
 
-
-___
-
-## BI
 
 
 ___
 
 ## Travel-plan-app-diploma
-В процессе разработки дипломного проекта - мобильно приложения для планирования путешествий...
+Задачей дипломного проекта было оформление спецификации требований на разработку програмного обеспеченя мобильного приложения для планирования путешествий.
 
 Link to a [pdf](https://github.com/nataliashved/portfolio/blob/7d7978b8157ae4e6478324dbeb71b38c5bbcc0b4/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pptx.pdf) diploma on a 14 pages
 
@@ -47,4 +44,9 @@ Core Data Layer, Data Mart Layer, ETL. Technical specifications and Data Quality
 
 ![Screenshot](dwh.jpg)
 
+## SQL
 
+
+___
+
+## BI
