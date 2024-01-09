@@ -9,7 +9,7 @@ Welcome to my portfolio!
 - [Прототипирование интерфейсов](#Prototypes)
 - [Дипломный проект](#Diploma)
 - [Data Warehouse](#DWH)
-- [SQL](#SQL)
+- [SQL](#SQL) (в процессе)
 - [BI](#BI)
 
 
