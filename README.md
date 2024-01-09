@@ -7,11 +7,11 @@ Welcome to my portfolio!
 
 
 - [Дипломный проект](#Travel-plan-app-diploma)
-- [Data Warehouse](#DWH)
+
 - [SQL](#SQL)
 - [BI](#BI)
 
-
+- [Data Warehouse](#DWH)
 
 ___
 
@@ -31,22 +31,27 @@ ___
 ___
 
 ## Travel-plan-app-diploma
-Задачей дипломного проекта было оформление спецификации требований на разработку програмного обеспеченя мобильного приложения для планирования путешествий.
+Задачей дипломного проекта было оформление спецификации требований на разработку програмного обеспеченя мобильного приложения для планирования путешествий. Были собраны требования, сделана диаграмма use case, диаграмма классов, прототип приложения и Swagger-документация.
 
 Link to a [pdf](diploma.pptx.pdf) diploma on a 14 pages
 
 ![Screenshot](diploma_title.jpg)
 
 ## DWH
-Online univercity
+По заданию необходимо было по заданным таблицам спроектировать хранилище данных и витрину с отчетностью для онлайн университета.
+В задачи входило:
+- проектирование структуры хранилища данных (логической модели DWH)
+- подготовка технических спецификаций
+- проектирование ETL-процессов
+- формулирование бизнес-правил в соответствии с принципами Data QualityOnline univercity
 
-Core Data Layer, Data Mart Layer, ETL. Technical specifications and Data Quality in the tabs <a href="https://docs.google.com/spreadsheets/d/17Da7IS6fAjHAVv1_yUw3HUlk2hFT_h_5kpTfDOwxJ-s/edit?usp=sharing">here</a>
+Core Data Layer, Data Mart Layer, ETL, технические спецификации и бизнес правила во вкладках <a href="https://docs.google.com/spreadsheets/d/17Da7IS6fAjHAVv1_yUw3HUlk2hFT_h_5kpTfDOwxJ-s/edit?usp=sharing">google sheets</a>
 
 ![Screenshot](dwh.jpg)
+___
 
 ## SQL
 
 
-___
 
 ## BI
