@@ -50,7 +50,7 @@ ___
 ## Diploma Дипломный проект
 Задачей дипломного проекта было оформление спецификации требований на разработку програмного обеспеченя мобильного приложения для планирования путешествий. Были собраны требования, сделана диаграмма use case и описание вариантов использования, диаграмма классов, прототип приложения и Swagger-документация.
 
-Ссылка на презентацию в [pdf](diploma.pptx.pdf) и [спецификацию](https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit?usp=sharing)
+Ссылка на [презентацию]([diploma.pptx.pdf](https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit?usp=sharing)) и [спецификацию](https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit?usp=sharing)
 
 ![Screenshot](diploma_title.jpg)
 
