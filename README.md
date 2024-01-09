@@ -4,11 +4,14 @@ Welcome to my portfolio!
 ## 📚 Table of Contents
 
 - [Моделирование бизнес-процессов (BPMN)](#BPMN)
+- [Интеграции ИС](#API)
 - [Прототипирование интерфейсов](#Prototypes)
 - [Дипломный проект](#Diploma)
 - [Data Warehouse](#DWH)
 - [SQL](#SQL)
 - [BI](#BI)
+
+
 
 
 ## BPMN
@@ -22,6 +25,11 @@ Welcome to my portfolio!
 - Детализацию процесса в BPMN 2.0
 
 ![Screenshot](bpmn_idef0.jpg) 
+___
+
+## API
+- Определение кючевых параметров интеграции  <a href="https://docs.google.com/document/d/11UA9l0pmHD3amXFuyFQdH593jZOck3-i77AkVvsEhhw/edit?usp=sharing">google docs</a>
+- Спроектировать API для кинотеатра [swagger](https://app.swaggerhub.com/apis/lianess/Iskorka2/1.0.1)
 ___
 
 ## Prototypes
