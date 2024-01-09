@@ -1,7 +1,6 @@
-<h1>Natalia's portfolio</h1>
+<h1>Welcome to my portfolio!</h1>
 
-Welcome to my portfolio!
-## 📚 Table of Contents
+## 📚 Содержание
 
 - [Моделирование бизнес-процессов (BPMN)](#BPMN)
 - [Диаграммы активности и последовательности](#CRM)
@@ -11,7 +10,6 @@ Welcome to my portfolio!
 - [Data Warehouse](#DWH)
 - [SQL](#SQL) (в процессе)
 - [BI](#BI)
-
 
 
 
