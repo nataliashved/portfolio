@@ -26,13 +26,15 @@
 ![Screenshot](bpmn_idef0.jpg) 
 ___
 
-## CRM Диаграммы активности и последовательности 
+## CRM 
+Диаграммы активности и последовательности 
 Необходимо описать алгоритм работы CRM системы, в которой сотрудник поддержки заводит заявку, поступившую к нему от клиента сервиса топливных карт
 
 ![Screenshot of a home screen](diagram_crm.jpg)
 ___
 
-## API Интеграции
+## API 
+Интеграции
 - Определение кючевых параметров интеграции  <a href="https://docs.google.com/document/d/11UA9l0pmHD3amXFuyFQdH593jZOck3-i77AkVvsEhhw/edit?usp=sharing">google docs</a>
 - Спроектировать API для кинотеатра [swagger](https://app.swaggerhub.com/apis/lianess/Iskorka2/1.0.1)
 ___
@@ -75,7 +77,8 @@ ___
 
 ___
 
-## BI Business intelligence
+## BI 
+Business intelligence
 Задание:
 Постройте дашборд на основе данных GoogleAppsStore, который бы отвечал на вопросы:
 - Как выглядит распределение оценок приложений?
