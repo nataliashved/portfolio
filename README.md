@@ -89,9 +89,9 @@ Business intelligence
 Постройте дашборд на основе данных GoogleAppsStore, который бы отвечал на вопросы:
 - Как выглядит распределение оценок приложений?
 - Зависит ли размер приложений от категорий/жанров?
-
-![Screenshot](https://github.com/nataliashved/.github-images/blob/main/tableau.jpg?raw=true)
 - Зависит ли качество приложений от стоимости? (за качество принимаем рейтинг).
 - Показать среднюю цену платных приложений по категориям.
   
 Ссылка на <a href="https://public.tableau.com/app/profile/natalia.shvedova/viz/Businessintelligence_16900433756250/Dashboard1">Tableau</a>
+
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/tableau.jpg?raw=true)
