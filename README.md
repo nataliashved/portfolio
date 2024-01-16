@@ -33,7 +33,7 @@ ___
 __
 
 ## Use_case
-Диаграмма Use case
+Диаграмма Use case из дипломного проекта
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/Use%20case.jpg?raw=true)
 ___
 
