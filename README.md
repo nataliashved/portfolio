@@ -4,14 +4,13 @@
 
 - [Моделирование бизнес-процессов (BPMN)](#BPMN)
 - [Диаграммы активности и последовательности](#CRM)
+- [Диаграмма Use case](##Use_case)
 - [Интеграции ИС](#API)
 - [Прототипирование интерфейсов](#Prototypes)
 - [Дипломный проект](#Diploma)
 - [Data Warehouse](#DWH)
 - [SQL](#SQL) (в процессе)
 - [BI](#BI)
-
-
 
 ## BPMN
 
@@ -31,22 +30,29 @@ ___
 Необходимо описать алгоритм работы CRM системы, в которой сотрудник поддержки заводит заявку, поступившую к нему от клиента сервиса топливных карт
 
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/diagram_crm.jpg?raw=true)
+__
+
+## Use_case
+Диаграмма Use case
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/Use%20case.jpg?raw=true)
 ___
 
 ## API 
 Интеграции
 - Определение кючевых параметров интеграции  <a href="https://docs.google.com/document/d/11UA9l0pmHD3amXFuyFQdH593jZOck3-i77AkVvsEhhw/edit?usp=sharing">google docs</a>
 - Спроектировать API для кинотеатра [swagger](https://app.swaggerhub.com/apis/lianess/Iskorka2/1.0.1)
+
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/api.jpg?raw=true)
 ___
 
 ## Prototypes Прототипирование интерфейсов
 1. По заданию нужно было создать прототип главного экрана приложения по учёту расходов в Figma для iOS. Ссылка на figma <a href="https://www.figma.com/proto/fKyYFi0qrNkGeUYZLYyP6y/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF?node-id=2-3&scaling=scale-down&page-id=1%3A2&starting-point-node-id=2%3A3&mode=design&t=d8PeZjRUUQvIGgCz-1" target="_blank">prototype</a> (working buttons: income, expences and calendar)
    
-![Screenshot of a home screen](figma.jpg)
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/figma.jpg?raw=true)
 
 2. Прототип из дипломной работы. Эраны приложения для планирования путешествий, сделаны в <a href="https://miro.com/app/board/o9J_kz8XEt4=/?share_link_id=271714930996">Miro</a> и Photoshop
    
-![Screenshot](prototype_diploma.jpg)
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/prototype_diploma.jpg?raw=true)
 ___
 
 ## Diploma Дипломный проект
@@ -54,7 +60,7 @@ ___
 
 Ссылка на [презентацию](https://docs.google.com/presentation/d/1ApEWS3FYBY5uO59Q78Ch0QMA7xCho28i/edit?usp=sharing&ouid=115070893752402896578&rtpof=true&sd=true) и [спецификацию](https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit?usp=sharing)
 
-![Screenshot](diploma_title.jpg)
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/diploma_title.jpg?raw=true)
 
 ___
 ## DWH 
@@ -68,7 +74,7 @@ Data Warehouse
 
 Core Data Layer, Data Mart Layer, ETL, технические спецификации и бизнес правила во вкладках <a href="https://docs.google.com/spreadsheets/d/17Da7IS6fAjHAVv1_yUw3HUlk2hFT_h_5kpTfDOwxJ-s/edit?usp=sharing">google sheets</a>
 
-![Screenshot](dwh.jpg)
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/dwh.jpg?raw=true)
 ___
 
 ## SQL
