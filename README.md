@@ -50,7 +50,8 @@ ___
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/api.jpg?raw=true)
 ___
 
-## Prototypes Прототипирование интерфейсов
+## Prototypes 
+Прототипирование интерфейсов
 1. По заданию нужно было создать прототип главного экрана приложения по учёту расходов в Figma для iOS. Ссылка на figma <a href="https://www.figma.com/proto/fKyYFi0qrNkGeUYZLYyP6y/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF?node-id=2-3&scaling=scale-down&page-id=1%3A2&starting-point-node-id=2%3A3&mode=design&t=d8PeZjRUUQvIGgCz-1" target="_blank">prototype</a> (working buttons: income, expences and calendar)
    
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/figma.jpg?raw=true)
@@ -60,7 +61,8 @@ ___
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/prototype_diploma.jpg?raw=true)
 ___
 
-## Diploma Дипломный проект
+## Diploma 
+Дипломный проект
 Задачей дипломного проекта было оформление спецификации требований на разработку програмного обеспеченя мобильного приложения для планирования путешествий. Были собраны требования, сделана диаграмма use case и описание вариантов использования, диаграмма классов, прототип приложения и Swagger-документация.
 
 Ссылка на [презентацию](https://docs.google.com/presentation/d/1ApEWS3FYBY5uO59Q78Ch0QMA7xCho28i/edit?usp=sharing&ouid=115070893752402896578&rtpof=true&sd=true) и [спецификацию](https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit?usp=sharing)
