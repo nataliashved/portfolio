@@ -23,14 +23,14 @@
 - Верхнеуровневый процесс в нотации IDEF0 
 - Детализация процесса в BPMN 2.0
 
-![Screenshot](bpmn_idef0.jpg) 
+![Screenshot]((https://drive.google.com/file/d/12UwyZX3i0A8wdF6cJVnczGaWoE8eKX2B/view?usp=sharing) 
 ___
 
 ## CRM 
 Диаграммы активности и последовательности 
 Необходимо описать алгоритм работы CRM системы, в которой сотрудник поддержки заводит заявку, поступившую к нему от клиента сервиса топливных карт
 
-![Screenshot of a home screen](diagram_crm.jpg)
+![Screenshot](https://drive.google.com/file/d/1Cf44se4lHHSIactrmGVkSRkrO44cee2b/view?usp=sharing)
 ___
 
 ## API 
