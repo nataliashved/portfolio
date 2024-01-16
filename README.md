@@ -95,3 +95,5 @@ Business intelligence
 Ссылка на <a href="https://public.tableau.com/app/profile/natalia.shvedova/viz/Businessintelligence_16900433756250/Dashboard1">Tableau</a>
 
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/tableau.jpg?raw=true)
+
+<h1>Спасибо за просмотр моего портфолио! 😀</h1>
