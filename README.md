@@ -31,11 +31,11 @@ ___
 Необходимо описать алгоритм работы CRM системы, в которой сотрудник поддержки заводит заявку, поступившую к нему от клиента сервиса топливных карт
 
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/diagram_crm.jpg?raw=true)
-__
+___
 
 ## Sequence_diagram
 
-__
+___
 
 ## Use_case
 Диаграмма Use case из дипломного проекта
