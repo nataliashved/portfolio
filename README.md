@@ -87,7 +87,9 @@ ___
 ## SQL
 В качестве предметной области выбраны авиаперевозки по России.
 ![Screenshot](https://github.com/nataliashved/.github-images/blob/main/sql_diagram.jpg?raw=true)
+
 Были ли брони, по которым не были получены посадочные талоны?
+
 ```sql 
 select distinct b.book_ref, bp.boarding_no
 from bookings b 
@@ -95,7 +97,26 @@ left join tickets t on t.book_ref = b.book_ref
 left join boarding_passes bp on bp.ticket_no = t.ticket_no
 where bp.boarding_no is null 
 order by b.book_ref
-``` 
+```
+
+В каких аэропортах есть рейсы, выполняемые самолетом с максимальной дальностью перелета?
+
+```sql
+select distinct r.departure_airport_name, a.model, a."range"
+from routes r
+join aircrafts a on a.aircraft_code = r.aircraft_code
+where "range" = (select max(a."range") from aircrafts a)
+group by r.departure_airport_name, a."range", a.model 
+```
+
+Найдите процентное соотношение перелетов по типам самолетов от общего количества
+
+```sql
+select distinct a.model, (round((count(f.flight_id) over (partition by f.aircraft_code)::numeric/count(f.flight_id) over()::numeric), 2)*100)::integer||'%' "%"  
+from flights f 
+right join aircrafts a on a.aircraft_code = f.aircraft_code
+group by a.model, f.flight_id
+```
 ___
 
 ## BI 
