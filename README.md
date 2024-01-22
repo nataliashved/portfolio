@@ -85,9 +85,17 @@ Core Data Layer, Data Mart Layer, ETL, технические специфика
 ___
 
 ## SQL
-
-
-
+В качестве предметной области выбраны авиаперевозки по России.
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/sql_diagram.jpg?raw=true)
+Были ли брони, по которым не были получены посадочные талоны?
+```sql 
+select distinct b.book_ref, bp.boarding_no
+from bookings b 
+left join tickets t on t.book_ref = b.book_ref 
+left join boarding_passes bp on bp.ticket_no = t.ticket_no
+where bp.boarding_no is null 
+order by b.book_ref
+``` 
 ___
 
 ## BI 
