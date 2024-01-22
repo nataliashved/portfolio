@@ -117,6 +117,26 @@ from flights f
 right join aircrafts a on a.aircraft_code = f.aircraft_code
 group by a.model, f.flight_id
 ```
+
+Найдите количество свободных мест для каждого рейса, их % отношение к общему количеству мест в самолете. Добавьте столбец с накопительным итогом - суммарное накопление количества вывезенных пассажиров из каждого аэропорта на каждый день. Т.е. в этом столбце должна отражаться накопительная сумма - сколько человек уже вылетело из данного аэропорта на этом или более ранних рейсах в течении дня
+
+```sql
+with cte1 as(
+	select s.aircraft_code, count(s.seat_no) all_seats
+	from seats s  
+	group by s.aircraft_code),
+cte2 as(
+	select bp.flight_id, count(bp.seat_no) occupied_seats 
+	from boarding_passes bp
+	group by bp.flight_id)
+select f.flight_no, a.airport_name, f.aircraft_code, all_seats, occupied_seats, all_seats - occupied_seats free_seats, 
+(round(((all_seats - occupied_seats)::numeric/all_seats::numeric), 2)* 100)::integer||'%' "% to all_seats", f.scheduled_departure, 
+sum(occupied_seats) over (partition by f.departure_airport, date_trunc('day', f.scheduled_departure) order by f.scheduled_departure) ppl_flewoutperday
+from flights f 
+left join cte1 c_1 on c_1.aircraft_code = f.aircraft_code 
+inner join cte2 c_2 on c_2.flight_id = f.flight_id
+join airports a on a.airport_code = f.departure_airport 
+```
 ___
 
 ## BI 
