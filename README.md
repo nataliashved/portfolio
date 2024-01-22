@@ -10,7 +10,7 @@
 - [Прототипирование интерфейсов](#Prototypes)
 - [Дипломный проект](#Diploma)
 - [Data Warehouse](#DWH)
-- [SQL](#SQL) (в процессе)
+- [SQL](#SQL)
 - [BI (Tableau)](#BI)
 
 ## BPMN
