@@ -25,7 +25,7 @@ ___
 ## Functional_requirements
 Пример описания функционала можно посмотреть в блоке Функциональные требования
 
-(ссылка на google docs)[https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit#bookmark=id.9gdgvbxwu3cq]
+ссылка на <a href="https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit#bookmark=id.9gdgvbxwu3cq>google docs</a>
 ___
 
 ## BPMN
