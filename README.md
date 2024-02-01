@@ -19,7 +19,7 @@
 ## Use_case_description
 Примеры описания логики разработки можно посмотреть в моем дипломном проекте, блок Сценарии использования
 
-(ссылка на google docs)[https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit#bookmark=id.i3dr7kwihqzm]
+ссылка на <a href="https://docs.google.com/document/d/1IPCBv0trKXVTHWWtoMe96FaZCRDJ-uWEG2VZmhIGJAo/edit#bookmark=id.i3dr7kwihqzm">google docs</a>
 ___
 
 ## Functional_requirements
