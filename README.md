@@ -52,7 +52,7 @@ ___
 ## Sequence_diagram
 
 Диаграмма последовательности sequence
-
+![Screenshot](https://github.com/nataliashved/.github-images/blob/main/sequence.jpg?raw=true)
 ___
 
 ## Use_case
