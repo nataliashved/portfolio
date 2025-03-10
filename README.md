@@ -17,7 +17,7 @@
 - [BI (Tableau)](#BI)
 
 
-## Standart_API
+## Standart_API ТЕХПИС ⬇
 <details><summary>Сокращенная часть документа Стандарт API</summary>
 	
 ## API design mandate
@@ -183,7 +183,7 @@ Page — встроенный объект, страница в пострани
 </details>
 
 </details>
-___ 
+___
 
 ## Use_case_description
 Примеры описания логики разработки можно посмотреть в моем дипломном проекте, блок Сценарии использования
